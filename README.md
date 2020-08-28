@@ -9,7 +9,7 @@ Para esta Atividade Mapa, considere que sua empresa resolveu refazer o sistema d
 Portanto, você deve implementar um sistema na linguagem de programação Java que siga as especificações do diagrama de classes abaixo.
 
 <div align='center'>
-<img src=".github/duml.png" width='450'>
+<img src=".github/duml.png" width='500'>
 </div>
 
 Para a construção do sistema, você deverá utilizar a IDE de desenvolvimento NetBeans - a mesma que foi utilizado na disciplina.
@@ -34,7 +34,7 @@ Para a construção do sistema, você deverá utilizar a IDE de desenvolvimento 
  
 Essas ações devem ficar em sua classe principal para que, ao executar, as ações já sejam executadas.
  
-* Os detalhes que você não tiver sobre as pessoas você pode inventar.
+Os detalhes que você não tiver sobre as pessoas você pode inventar.
 
 ---
 
