@@ -46,9 +46,11 @@ Os detalhes que você não tiver sobre as pessoas você pode inventar.
 - Criar Métodos;
 - Declaração de Contrutores;
 - Utilizar modificadores de acesso;
+    - public, private, protected e default;
+    - final, abstract e static.
 - Herança e Polimorfismo;
     - extends;
-    - @Override
+    - @Override.
 - Formatação de String utilizando class DecimalFormat;
 - Comparação de String utilizando o método equals().
 
