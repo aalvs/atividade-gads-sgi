@@ -5,6 +5,7 @@ package sgi;
  * Instituição: Centro Universitário de Maringá
  * Diciplina: Programação I
  * Aluno: André Alves de Oliveira
+ * RA: 19131743-5
  * @author aavls
  */
 public class Secretaria extends Funcionario{
